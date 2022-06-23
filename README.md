@@ -15,3 +15,4 @@ sqlite3 --version
 
 * [https://www.sqlite.org/](https://www.sqlite.org/index.html)
 * [https://github.com/lana-k/sqliteviz](https://github.com/lana-k/sqliteviz)
+* [https://github.com/sparklemotion/sqlite3-ruby](https://github.com/sparklemotion/sqlite3-ruby)
