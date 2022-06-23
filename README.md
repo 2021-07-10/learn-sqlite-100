@@ -15,4 +15,3 @@ sqlite3 --version
 
 * [https://www.sqlite.org/](https://www.sqlite.org/index.html)
 * [https://github.com/lana-k/sqliteviz](https://github.com/lana-k/sqliteviz)
-* [https://sqlitebrowser.org/](https://sqlitebrowser.org/)
